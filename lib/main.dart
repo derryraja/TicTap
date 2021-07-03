@@ -47,7 +47,7 @@ class _IntroScreenState extends State<IntroScreen>
                   Expanded(
                     child: Container(
                       child: Text(
-                        "TIC TAC TOE",
+                        "TIC TAP",
                         style: myNewFontWhite.copyWith(fontSize: 30),
                       ),
                     ),
