@@ -93,7 +93,7 @@ class _IntroScreenState extends State<IntroScreen>
                     },
                     child: Padding(
                       padding: EdgeInsets.only(
-                          left: 40, right: 40, bottom: 20, top: 150),
+                          left: 40, right: 40, bottom: 30, top: 120),
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(20),
                         child: Container(
